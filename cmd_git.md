@@ -43,3 +43,20 @@ https:://git.kernel.org
 
 #git add fichiers/ rm fichiers -> git commit
 
+#git stash -> modif enregistrée dans le stash et retour à ancienne version
+#git stash pop ->réapplique modif du stash dans espace de travail ->pile
+#git stash show
+#git stash drop
+#git stash list
+
+Branches:
+
+#git branch nom ->* devant branche courante
+#git checkout nom
+#git merge nom -> commit de branche secondaire dans branche principale -> conflits possibles
+#git branch -d nom -> supprime étiquette de la branche nom (doit êter reliée à branche principale)
+
+
+
+
+
